@@ -1,0 +1,6 @@
+[submodule "cerberus-backend"]
+	path = cerberus-backend
+	url = https://github.com/christinathihoang/cerberus-backend.git
+[submodule "cerberus-frontend"]
+	path = cerberus-frontend
+	url = https://github.com/christinathihoang/cerberus-frontend.git
